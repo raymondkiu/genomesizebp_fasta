@@ -2,7 +2,7 @@
 Compute genome size of fasta assemblies (shown in bp)
 
 ## Introduction
-* This is a Shell script to rapidly compute the genome size (in bp) of fasta assemblies (only digit, e.g. 3101223) in a final output FILENAME-genomesize.
+* This is a simple Shell script to rapidly compute the genome size (in bp) of fasta assemblies (only digit, e.g. 3101223) in a final output FILENAME-genomesize.
 
 ## Usage
 ```
