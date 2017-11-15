@@ -8,5 +8,5 @@ This is a Shell script to rapidly compute the genome size (in bp) of fasta assem
 
 % ./genomesize.sh FILENAME
 
-*FILENAME must be fasta file assemblies
-*The output will be named as FILENAME-genomesize
+* FILENAME must be fasta file assemblies
+* The output will be named as FILENAME-genomesize
