@@ -1,3 +1,4 @@
+#!/bin/bash
 #usage: ./genomesize.sh FASTAFILE
 #FASTAFILE is the assembly file in fasta format
 #This will give a final output named 'FASTAFILE-genomesize', with all intermediate files cleared
